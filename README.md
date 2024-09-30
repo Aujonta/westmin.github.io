@@ -6,7 +6,7 @@
 <body>
   
   <h3> <b>Westminister School</b> </h3>
-  <img src="">
+  <img src="https://github.com/Aujonta/html/blob/main/School.jpg">
   <p><a href="https://www.edmonton.ca/public-files/assets/document?path=PDF/BusSchedule_Route002.pdf">This is the route I take to school </a></p>
   <p>
   <a href="https://www.youtube.com/@ThegoofyahhangrybirdHEHE">My friend's YT Channel</a>  
